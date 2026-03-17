@@ -2,6 +2,11 @@
 
 The Distributor Portal is a secure dashboard built with React and Vite. It is designed to be used by administrators and government auditors to monitor infrastructure quality, verify on-site visits, and manage road projects.
 
+Login Credentials are
+
+email: admin@roadqc.gov
+password: nirma123
+
 ## Prerequisites
 
 Before running this project, ensure you have the following installed on your machine:
